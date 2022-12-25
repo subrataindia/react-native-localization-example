@@ -1,0 +1,7 @@
+{
+    "_comment" : "localization/hn/translation.json",
+    "appScreen" : {
+      "welcome" : "स्वागत करतेहैं ",
+      "rn" : "To React Native!"
+    }
+}

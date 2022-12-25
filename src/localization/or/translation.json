@@ -1,0 +1,7 @@
+{
+    "_comment" : "localization/or/translation.json",
+    "appScreen" : {
+      "welcome" : "ସ୍ୱାଗତ",
+      "rn" : "React Native କୁ!"
+    }
+}

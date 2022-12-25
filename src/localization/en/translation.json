@@ -1,0 +1,7 @@
+{
+    "_comment" : "local/en/translation.json",
+    "appScreen" : {
+      "welcome" : "Welcome.",
+      "rn" : "To React Native!"
+    }
+}
